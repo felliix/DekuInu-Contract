@@ -1,4 +1,4 @@
-#DekuInu features
+# DekuInu features
 
 Name      DekuInu
 Symbol    DEKU
