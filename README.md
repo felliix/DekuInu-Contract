@@ -1,10 +1,12 @@
 # DekuInu features
 
+```
 Name      DekuInu
 Symbol    DEKU
 Decimals  9
 
 Supply    1_000_000_000_000_000
+```
 
 3% rewards
 Join the Mugiwara crew and get 3% of each transaction for holding Luffy Inu!
